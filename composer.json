@@ -1,5 +1,5 @@
 {
-    "name": "fall1600/newebpay",
+    "name": "wartw89/newebpay",
     "description": "Payment solution of NewebPay(藍新金流), implementing by pure PHP",
     "keywords": ["newebpay", "payment"],
     "type": "library",
